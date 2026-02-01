@@ -10,7 +10,7 @@ This project compares a Dense (feed-forward) baseline model and an LSTM model wi
 
 Files
 
-Untitled1.ipynb – Complete runnable Python implementation, including preprocessing, model training, evaluation, and visualizations.
+Timeseries.ipynb – Complete runnable Python implementation, including preprocessing, model training, evaluation, and visualizations.
 
 Dataset & Preprocessing
 
